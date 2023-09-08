@@ -25,7 +25,7 @@ const Feedback = () => (
        Founder| Metaversus
         </p>
       </div>
-      <p className='mt-[24px] font-normal sm:text-[24px] text-[45px] sm:leading-[39px]
+      <p className='mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[39px]
         leading-[16px] text-white'>
       “With the development of today's technology, metaverse is very useful for today's work, or can be called web 3.0. by using metaverse you can use it as anything”
       </p>
